@@ -36,5 +36,5 @@
 	- min 2 raporty. Np. Lista produktów, klientów, raport sprzedaży dziennej w danym dniu (potrzebujesz kwerendy parametrycznej).
 	- Ocenie podlega schemat relacyjnej bazy danych, funkcjonalność bazy danych, sposób rozwiązania. 
 # Wykonali
-- Jan Dziąsło (Bartosz N.)
+- JanDziaslo (Bartosz N.)
 - Szopen2137 (Szymon T.)
