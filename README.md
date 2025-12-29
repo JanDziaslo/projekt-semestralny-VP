@@ -1,5 +1,5 @@
 # Do zrobienia
-## Postawowe
+## Podstawowe
 - [x] min 5 tabel powiązanych (jest 6)
 - [x] do tabeli z produktami wprowadź min 20 rekordów
 - [x] Dokończenie pól kombi
