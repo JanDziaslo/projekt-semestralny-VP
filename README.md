@@ -15,6 +15,7 @@
 		- [x] Edycja zamówień
 		- [ ] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
 		- [ ] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
+		- [ ] Aktualizacja ilości produktów na podstawie zamówien
 	- [ ] Klienci
 		- [ ] Dodawanie nowych klientów
 		- [ ] Edycja klientów
