@@ -13,7 +13,7 @@
 	- [ ] Zamówienia
 		- [x] Dodawanie nowych zamówień
 		- [x] Edycja zamówień
-		- [ ] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
+		- [x] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
 		- [ ] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
 		- [ ] Aktualizacja ilości produktów na podstawie zamówien
 	- [ ] Klienci
@@ -23,10 +23,10 @@
 	- [x] Wybór raportow do odpalenia
 	- [ ] Zarządzanie bazy danych powinno odbywać się przy pomocy formularzy.
 	- [ ] Mechanizm usuwania/aktualizowania danych rozwiąż za pomocą kwerend i makr albo kreatora (nie korzystasz z VBA /można zrobić tylko odświeżanie).
-- [ ] Raporty
+- [x] Raporty
 	- [x] Min. 2 raporty
-	- [ ] Ulepszenie wyglądu raportów (przydałaby się spójność z formularzami)
-	- [ ] Przyciski powrotu
+	- [x] Ulepszenie wyglądu raportów (przydałaby się spójność z formularzami)
+	- [x] Przyciski powrotu
 # Wymagania z moodla
 - Zaprojektuj relacyjną bazę danych w MS Access, która będzie zawierała:
 	- min 5 tabel powiązanych;
