@@ -5,21 +5,21 @@
 - [x] Dokończenie pól kombi
 ## Zarządzanie bazą danych
 - [ ] Formularze
-	- [ ] Powitalny
+	- [x] Powitalny
 		- [x] Przyciski do zamówień 
 		- [x] Przyciski do raportów
-		- [ ] Przyciski do Klientów
+		- [x] Przyciski do Klientów
 		- [x] Zamykanie Accessa
 	- [ ] Zamówienia
 		- [x] Dodawanie nowych zamówień
 		- [x] Edycja zamówień
 		- [x] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
-		- [ ] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
+		- [x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
 		- [ ] Aktualizacja ilości produktów na podstawie zamówien
 	- [ ] Klienci
-		- [ ] Dodawanie nowych klientów
-		- [ ] Edycja klientów
-		- [ ] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
+		- [x] Dodawanie nowych klientów
+		- [x] Edycja klientów
+		- [x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
 	- [x] Wybór raportow do odpalenia
 	- [ ] Zarządzanie bazy danych powinno odbywać się przy pomocy formularzy.
 	- [ ] Mechanizm usuwania/aktualizowania danych rozwiąż za pomocą kwerend i makr albo kreatora (nie korzystasz z VBA /można zrobić tylko odświeżanie).
