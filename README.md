@@ -9,17 +9,21 @@
 		- [x] Przyciski do zamówień 
 		- [x] Przyciski do raportów
 		- [x] Przyciski do Klientów
+		- [ ] Przyciski do produktow
 		- [x] Zamykanie Accessa
-	- [ ] Zamówienia
+	- [x] Zamówienia
 		- [x] Dodawanie nowych zamówień
 		- [x] Edycja zamówień
 		- [x] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
 		- [x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
-		- [ ] Aktualizacja ilości produktów na podstawie zamówien
-	- [ ] Klienci
+		- [x] Aktualizacja ilości produktów na podstawie zamówien (zrobione na odwal ale jakos dziala tylko ze potrafi dodawac i odejmowac za duzo)
+	- [x] Klienci
 		- [x] Dodawanie nowych klientów
 		- [x] Edycja klientów
 		- [x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
+	- [ ] Produkty
+		- [ ] dodawanie produktow
+		- [ ] edycja produktow
 	- [x] Wybór raportow do odpalenia
 	- [ ] Zarządzanie bazy danych powinno odbywać się przy pomocy formularzy.
 	- [ ] Mechanizm usuwania/aktualizowania danych rozwiąż za pomocą kwerend i makr albo kreatora (nie korzystasz z VBA /można zrobić tylko odświeżanie).
