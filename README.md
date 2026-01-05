@@ -1,78 +1,54 @@
 # Do zrobienia
-
 ## Podstawowe
-
-* \[x] min 5 tabel powiązanych (jest 6)
-* \[x] do tabeli z produktami wprowadź min 20 rekordów
-* \[x] Dokończenie pól kombi
-
+- [x] min 5 tabel powiązanych (jest 6)
+- [x] do tabeli z produktami wprowadź min 20 rekordów
+- [x] Dokończenie pól kombi
 ## Zarządzanie bazą danych
-
-* \[ ] Formularze
-
-  * \[x] Powitalny
-
-    * \[x] Przyciski do zamówień
-    * \[x] Przyciski do raportów
-    * \[x] Przyciski do Klientów
-    * \[x] Przyciski do produktow
-    * \[x] przycisk do filtrujacego
-    * \[x] Zamykanie Accessa
-
-  * \[x] Zamówienia
-
-    * \[x] Dodawanie nowych zamówień
-    * \[x] Edycja zamówień
-    * \[x] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
-    * \[x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
-    * \[x] Aktualizacja ilości produktów na podstawie zamówien (zrobione na odwal ale jakos dziala tylko ze potrafi dodawac i odejmowac za duzo)
-
-  * \[x] Klienci
-
-    * \[x] Dodawanie nowych klientów
-    * \[x] Edycja klientów
-    * \[x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
-
-  * \[x] Produkty
-
-    * \[x] dodawanie produktow
-    * \[x] edycja produktow
-
-  * \[x] filtrujacy
-
-    * \[x] zrobienie formualarza do wyswietlania produktow na podstawie kategori
-
-  * \[x] Wybór raportow do odpalenia
-  * \[x] Zarządzanie bazy danych powinno odbywać się przy pomocy formularzy.
-  * \[x] Mechanizm usuwania/aktualizowania danych rozwiąż za pomocą kwerend i makr albo kreatora (nie korzystasz z VBA /można zrobić tylko odświeżanie).
-
-* \[x] Raporty
-
-  * \[x] Min. 2 raporty
-  * \[x] Ulepszenie wyglądu raportów (przydałaby się spójność z formularzami)
-  * \[x] Przyciski powrotu
-  * \[x] raport na podstawie kwarendy parametrycznej (powiedzmy ze jest)
-
-* \[ ] szlify
-
-  * \[ ] dopracowac wyglad
-  * \[ ] sprawdzic czy wszytko dziala
-  * \[ ] sprawdzic baze danych pod wzgledem wymagan z moodla
-  * \[ ] dopracowac spojnosc z calym interfejsem
-
+- [x] Formularze
+	- [x] Powitalny
+		- [x] Przyciski do zamówień 
+		- [x] Przyciski do raportów
+		- [x] Przyciski do Klientów
+		- [x] Przyciski do produktow
+		- [x] przycisk do filtrujacego
+		- [x] Zamykanie Accessa
+	- [x] Zamówienia
+		- [x] Dodawanie nowych zamówień
+		- [x] Edycja zamówień
+		- [x] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
+		- [x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
+		- [x] Aktualizacja ilości produktów na podstawie zamówien (zrobione na odwal ale jakos dziala tylko ze potrafi dodawac i odejmowac za duzo)
+	- [x] Klienci
+		- [x] Dodawanie nowych klientów
+		- [x] Edycja klientów
+		- [x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
+	- [x] Produkty
+		- [x] dodawanie produktow
+		- [x] edycja produktow
+	- [x] filtrujacy 
+		- [x] zrobienie formualarza do wyswietlania produktow na podstawie kategori
+	- [x] Wybór raportow do odpalenia
+	- [x] Zarządzanie bazy danych powinno odbywać się przy pomocy formularzy.
+	- [x] Mechanizm usuwania/aktualizowania danych rozwiąż za pomocą kwerend i makr albo kreatora (nie korzystasz z VBA /można zrobić tylko odświeżanie).
+- [x] Raporty
+	- [x] Min. 2 raporty
+	- [x] Ulepszenie wyglądu raportów (przydałaby się spójność z formularzami)
+	- [x] Przyciski powrotu
+	- [x] raport na podstawie kwarendy parametrycznej (powiedzmy ze git)
+- [ ] szlify
+	- [ ] dopracowac wyglad
+	- [ ] sprawdzic czy wszytko dziala
+	- [ ] sprawdzic baze danych pod wzgledem wymagan z moodla
+	- [ ] dopracowac spojnosc z calym interfejsem
 # Wymagania z moodla
-
-* Zaprojektuj relacyjną bazę danych w MS Access, która będzie zawierała:
-
-  * min 5 tabel powiązanych;
-  * do tabeli z produktami wprowadź min 20 rekordów;
-  * zarządzanie bazy danych powinno odbywać się przy pomocy formularzy. Jako pierwszy startuje (ustaw jako autostart) formularz sterujący albo własny za pomocą którego będziemy zarządzać bazą danych. Utwórz formularz filtrujący z użyciem pola kombi i pola listy.
-  * Za pomocą formularzy dodajemy nowe produkty, edytujemy istniejące, zwracamy, wypożyczamy.
-  * mechanizm usuwania/aktualizowania danych rozwiąż za pomocą kwerend i makr albo kreatora (nie korzystasz z VBA /można zrobić tylko odświeżanie). Np. jeżeli wypożyczamy albo sprzedajemy jakiś towar to on powinien zejść ze stanu, jeżeli zwracamy towar -  wraca na stan. Jeżeli dowozimy towar do sklepu to zwiększamy ilość, jeżeli sprzedajemy to zmniejszamy ilość.
-  * min 2 raporty. Np. Lista produktów, klientów, raport sprzedaży dziennej w danym dniu (potrzebujesz kwerendy parametrycznej).
-  * Ocenie podlega schemat relacyjnej bazy danych, funkcjonalność bazy danych, sposób rozwiązania.
-
+- Zaprojektuj relacyjną bazę danych w MS Access, która będzie zawierała:
+	- min 5 tabel powiązanych;
+	- do tabeli z produktami wprowadź min 20 rekordów;
+	- zarządzanie bazy danych powinno odbywać się przy pomocy formularzy. Jako pierwszy startuje (ustaw jako autostart) formularz sterujący albo własny za pomocą którego będziemy zarządzać bazą danych. Utwórz formularz filtrujący z użyciem pola kombi i pola listy. 
+	- Za pomocą formularzy dodajemy nowe produkty, edytujemy istniejące, zwracamy, wypożyczamy.
+	- mechanizm usuwania/aktualizowania danych rozwiąż za pomocą kwerend i makr albo kreatora (nie korzystasz z VBA /można zrobić tylko odświeżanie). Np. jeżeli wypożyczamy albo sprzedajemy jakiś towar to on powinien zejść ze stanu, jeżeli zwracamy towar -  wraca na stan. Jeżeli dowozimy towar do sklepu to zwiększamy ilość, jeżeli sprzedajemy to zmniejszamy ilość. 
+	- min 2 raporty. Np. Lista produktów, klientów, raport sprzedaży dziennej w danym dniu (potrzebujesz kwerendy parametrycznej).
+	- Ocenie podlega schemat relacyjnej bazy danych, funkcjonalność bazy danych, sposób rozwiązania. 
 # Wykonali
-
-* JanDziaslo (Bartosz N.)
-* Szopen2137 (Szymon T.) \[duzo powiedziane]
+- JanDziaslo (Bartosz N.)
+- Szopen2137 (Szymon T.) [duzo powiedziane]
