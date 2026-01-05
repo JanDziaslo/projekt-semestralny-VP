@@ -15,7 +15,7 @@
     * \[x] Przyciski do zamówień
     * \[x] Przyciski do raportów
     * \[x] Przyciski do Klientów
-    * \[ ] Przyciski do produktow
+    * \[x] Przyciski do produktow
     * \[x] przycisk do filtrujacego
     * \[x] Zamykanie Accessa
 
@@ -33,10 +33,10 @@
     * \[x] Edycja klientów
     * \[x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
 
-  * \[ ] Produkty
+  * \[x] Produkty
 
     * \[x] dodawanie produktow
-    * \[ ] edycja produktow
+    * \[x] edycja produktow
 
   * \[x] filtrujacy
 
@@ -51,7 +51,7 @@
   * \[x] Min. 2 raporty
   * \[x] Ulepszenie wyglądu raportów (przydałaby się spójność z formularzami)
   * \[x] Przyciski powrotu
-  * \[ ] raport na podstawie kwarendy parametrycznej
+  * \[x] raport na podstawie kwarendy parametrycznej (powiedzmy ze jest)
 
 * \[ ] szlify
 
