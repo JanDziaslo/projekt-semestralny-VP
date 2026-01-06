@@ -1,10 +1,13 @@
+> [!IMPORTANT]
+> Baza danych została zrobiona za pomocą accessa w wersji 365 i nie była testowana na innych wersjach office.
+
 # Do zrobienia
 ## Podstawowe
 - [x] min 5 tabel powiązanych (jest 6)
 - [x] do tabeli z produktami wprowadź min 20 rekordów
 - [x] Dokończenie pól kombi
 ## Zarządzanie bazą danych
-- [x] Formularze
+- [ ] Formularze
 	- [x] Powitalny
 		- [x] Przyciski do zamówień 
 		- [x] Przyciski do raportów
@@ -12,12 +15,13 @@
 		- [x] Przyciski do produktow
 		- [x] przycisk do filtrujacego
 		- [x] Zamykanie Accessa
-	- [x] Zamówienia
+	- [ ] Zamówienia
 		- [x] Dodawanie nowych zamówień
 		- [x] Edycja zamówień
 		- [x] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
 		- [x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
 		- [x] Aktualizacja ilości produktów na podstawie zamówien (zrobione na odwal ale jakos dziala tylko ze potrafi dodawac i odejmowac za duzo)
+		- [ ] Poprawienie dzialania aktualizacji ilosci
 	- [x] Klienci
 		- [x] Dodawanie nowych klientów
 		- [x] Edycja klientów
