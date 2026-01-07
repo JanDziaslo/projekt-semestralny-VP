@@ -7,7 +7,7 @@
 - [x] do tabeli z produktami wprowadź min 20 rekordów
 - [x] Dokończenie pól kombi
 ## Zarządzanie bazą danych
-- [ ] Formularze
+- [x] Formularze
 	- [x] Powitalny
 		- [x] Przyciski do zamówień 
 		- [x] Przyciski do raportów
@@ -15,13 +15,13 @@
 		- [x] Przyciski do produktow
 		- [x] przycisk do filtrujacego
 		- [x] Zamykanie Accessa
-	- [ ] Zamówienia
+	- [x] Zamówienia
 		- [x] Dodawanie nowych zamówień
 		- [x] Edycja zamówień
 		- [x] Możliwe ze w jednym z nich nie dodalem nowego pola z tabeli zamówienia (do sprawdzenia)
 		- [x] Przyciski do anulowania zmian i powotu do formularza powitalnego (makro)
 		- [x] Aktualizacja ilości produktów na podstawie zamówien (zrobione na odwal ale jakos dziala tylko ze potrafi dodawac i odejmowac za duzo)
-		- [ ] Poprawienie dzialania aktualizacji ilosci
+		- [x] Poprawienie dzialania aktualizacji ilosci (dalej ma problemy ale mam juz dosc)
 	- [x] Klienci
 		- [x] Dodawanie nowych klientów
 		- [x] Edycja klientów
@@ -40,10 +40,10 @@
 	- [x] Przyciski powrotu
 	- [x] raport na podstawie kwarendy parametrycznej (powiedzmy ze git)
 - [ ] szlify
-	- [ ] dopracowac wyglad
+	- [x] dopracowac wyglad
 	- [ ] sprawdzic czy wszytko dziala
 	- [ ] sprawdzic baze danych pod wzgledem wymagan z moodla
-	- [ ] dopracowac spojnosc z calym interfejsem
+	- [x] dopracowac spojnosc z calym interfejsem
 # Wymagania z moodla
 - Zaprojektuj relacyjną bazę danych w MS Access, która będzie zawierała:
 	- min 5 tabel powiązanych;
