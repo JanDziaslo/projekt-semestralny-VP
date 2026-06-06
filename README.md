@@ -18,7 +18,9 @@ Jeżeli w bazie nie było np. tabel klienci i sprzedaz albo wypozyczenia to nale
 - [ ] Jeżeli nie uzupełnimy jakiegoś pola to pokazuje się odpowiedni komunikat aby je uzupełnić. Np. nie powinno pozwolić wystawić faktury, do której nie dodano żadnego produktu tzw. pustej faktury.
 - [ ] Możliwość drukowania faktury tzn. wyświetlania podglądu wydruku raportu faktury z logo i nagłówkami.
 - [ ] Baza powinna być w pełni funkcjonalna.
-- [ ] Zabezpiecz całą bazę danych hasłem oraz dodatkowo formularz z danymi klienta zabezpiecz hasłem.
+- [ ] Hasła
+	- [x] ogolne bazy danych 
+	- [ ] formularza z danymi klienta
 - [ ] Obsługa błędów w formularzach.
 
 # Podziękowania
