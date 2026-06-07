@@ -5,3 +5,7 @@ MocneHaslo
 ```
 
 # Hasło do formularzu z danymi klienta
+
+```
+HasloMocne
+```
