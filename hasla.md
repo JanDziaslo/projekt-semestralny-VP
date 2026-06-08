@@ -4,7 +4,7 @@
 MocneHaslo
 ```
 
-# Hasło do formularzu z danymi klienta
+# Hasło do formularza i raportu z danymi klienta
 
 ```
 HasloMocne
